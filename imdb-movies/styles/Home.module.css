@@ -1,0 +1,10 @@
+.container {
+  min-height: 100vh;
+  display: flex;
+  padding-left: 110px;
+  padding-right: 105px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(31, 41, 55, 1);
+}
